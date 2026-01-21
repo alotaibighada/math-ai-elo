@@ -1,5 +1,5 @@
 import streamlit as st
-from utils.header import show_header
+from header import show_header
 
 st.set_page_config(page_title="Math AI | ELO", layout="wide")
 show_header()
